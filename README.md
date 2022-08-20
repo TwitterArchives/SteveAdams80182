@@ -17,10 +17,8 @@ $ target/release/twcc deleted-tweets --report SteveAdams80182
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
-<div style="text-align: center;">
 ### Deleted Tweets for SteveAdams80182
-**[Part 1](Accounts/SteveAdams80182-202208191715-deleted-part1.md)**  
-**[Part 2](Accounts/SteveAdams80182-202208191715-deleted-part2.md)**  
-**[Part 3](Accounts/SteveAdams80182-202208191715-deleted-part3.md)**  
-**[Part 4](Accounts/SteveAdams80182-202208191715-deleted-part4.md)**  
-</div>
+#### [Part 1](Accounts/SteveAdams80182-202208191715-deleted-part1.md)  
+#### [Part 2](Accounts/SteveAdams80182-202208191715-deleted-part2.md)  
+#### [Part 3](Accounts/SteveAdams80182-202208191715-deleted-part3.md)  
+#### [Part 4](Accounts/SteveAdams80182-202208191715-deleted-part4.md)  
